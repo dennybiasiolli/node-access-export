@@ -1,0 +1,20 @@
+{
+  "name": "node-access-export",
+  "version": "1.0.0",
+  "description": "Export access tables to json files",
+  "main": "access2json.js",
+  "dependencies": {
+    "node-adodb": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "access",
+    "json",
+    "export"
+  ],
+  "author": "Denny Biasiolli",
+  "license": "ISC"
+}
